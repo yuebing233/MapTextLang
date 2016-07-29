@@ -2,87 +2,87 @@
 {
 	"** Map by kune **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者:kune**"
 	}
 	"** Original map by Chris Auty and Andrew Aumann**"
 	{
-		"chi"		"** **"
+		"chi"		"**原地图作者:Chris Auty和Andrew Aumann**"
 	}
 	"** 30 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余30秒**"
 	}
 	"** 25 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余25秒**"
 	}
 	"** 15 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余15秒**"
 	}
 	"** 20 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余20秒**"
 	}
 	"** Hold here **"
 	{
-		"chi"		"** **"
+		"chi"		"**在这坚持住!**"
 	}
 	"** Get to the chopper **"
 	{
-		"chi"		"** **"
+		"chi"		"**快TM上飞机!**"
 	}
 	"** 25 seconds left *"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余25秒**"
 	}
 	"** Get on the elevator **"
 	{
-		"chi"		"** **"
+		"chi"		"**快坐上电梯!**"
 	}
 	"** 5 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余5秒**"
 	}
 	"** 4 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余4秒**"
 	}
 	"** 3 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余3秒**"
 	}
 	"** 2 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余2秒**"
 	}
 	"** 1 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余1秒**"
 	}
 	"** 10 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余10秒**"
 	}
 	"** 9 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余9秒**"
 	}
 	"** 8 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余8秒**"
 	}
 	"** 7 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余7秒**"
 	}
 	"** FAILED **"
 	{
-		"chi"		"** **"
+		"chi"		"**失败**"
 	}
 	"***CURRENT DIFFICULTY IS NORMAL***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前难度:一般**"
 	}
 
 }
