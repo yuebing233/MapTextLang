@@ -67,6 +67,7 @@
 	"***PIZZA ROLLER LEAVING IN 15 SECONDS***"
 	{
 		"chi"		"**披萨飞盘15秒后离开**"
+                "DoorCountDown"		"15"
 	}
 	"***WELCOME TO PIZZA LAND***"
 	{
@@ -79,6 +80,7 @@
 	"***PISS CART LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**披萨车20秒后离开**"
+                "DoorCountDown"		"20"
 	}
 	"***PISS CART LEAVING IN 5 SECONDS***"
 	{
@@ -103,10 +105,12 @@
 	"***PIZZA SURF OPENING IN 15 SECONDS***"
 	{
 		"chi"		"**披萨滑翔15秒后开启**"
+                "DoorCountDown"		"15"
 	}
 	"***PIZZA SPACE LIFTOFF IN 30 SECONDS***"
 	{
 		"chi"		"**披萨火箭30秒后发射**"
+                "DoorCountDown"		"30"
 	}
 	"***PIZZA SPACE LIFTOFF IN 20 SECONDS***"
 	{
@@ -139,6 +143,7 @@
 	"***PIZZA ROLLER NEEDS TO TAKE A REST FOR 20 SECONDS***"
 	{
 		"chi"		"**披萨飞盘需要20秒来休息下**"
+                "DoorCountDown"		"20"
 	}
 	"***THE FRENCH ARE COMING***"
 	{
@@ -331,6 +336,7 @@
 	"***PIZZA PARTY IN 25 SECONDS***"
 	{
 		"chi"		"**披萨派对25秒后开始**"
+                "DoorCountDown"		"25"
 	}
 	"***PIZZA PARTY IN 10 SECONDS***"
 	{
@@ -359,6 +365,7 @@
 	"***VOLCANO IS GOING BOOBLY IN 10 SECONDS***"
 	{
 		"chi"		"**火山还有10秒狂热起来**"
+                "DoorCountDown"		"10"
 	}
 	"***VOLCANO IS GOING BOOBLY***"
 	{
@@ -414,6 +421,7 @@
 	"***THE BOSS WILL ARRIVE IN 30 SECONDS***"
 	{
 		"chi"		"**BOOS还有30秒到达**"
+                "DoorCountDown"		"30"
 	}
 	"***YOUR HEALTH WILL GET REDUCED IF YOURE LATE***"
 	{
@@ -494,6 +502,7 @@
 	"***DEFEND FOR 50 SECONDS***"
 	{
 		"chi"		"**防守50秒**"
+                "DoorCountDown"		"50"
 	}
 	"***Defend for 10 seconds***"
 	{
@@ -502,6 +511,7 @@
 	"***PIZZA LIFT IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**披萨电梯5秒后离开**"
+                "DoorCountDown"		"5"
 	}
 	"***PIZZA LIFT IS LEAVING***"
 	{
@@ -606,6 +616,7 @@
 	"***THE LAVA WILL RISE IN 10 SECONDS***"
 	{
 		"chi"		"**岩浆将在10秒后上升**"
+                "DoorCountDown"		"10"
 	}
 	"***THE LAVA IS RISING***"
 	{
@@ -634,6 +645,7 @@
 	"***FINAL PINEAPPLE LEAVES IN 60 SECONDS***"
 	{
 		"chi"		"**最后的菠萝60秒后离开**"
+                "DoorCountDown"		"60"
 	}
 	"***DEFEND WITH ALL YOUR MIGHT***"
 	{
