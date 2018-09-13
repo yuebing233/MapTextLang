@@ -2,7 +2,7 @@
 {
 	"***THE PIZZA IS AGGRESSIVE***"
 	{
-		"chi"		"**披萨是非常险恶的**"
+		"chi"		"**披萨是非常好斗的**"
 	}
 	"***PISS CART LEAVING IN 15 SECONDS***"
 	{
